@@ -1,6 +1,9 @@
 # ProductRec
 
-Product Reccommendation changes
+1. Simple Classes written to encapsulate the logic.
+2. Unit tests for the classes on top of the abstraction chain are added.
+3. app.component.ts just have the visual representation of the customer, his output bundle-value and whether he's allowed to apply any particular product. 
+  Since it is a medium- big problem, it would take more time, although following basic SOLID principles are followed to make the use cases.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
 
